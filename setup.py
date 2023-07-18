@@ -1,7 +1,7 @@
 from setuptools import setup
 
 with open('README.md') as file:
-    long_desc = str(file.readlines())
+    long_desc = file.read()
 
 setup(
     name = 'threetotheonehalfpy',

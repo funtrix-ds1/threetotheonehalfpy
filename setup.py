@@ -5,7 +5,7 @@ with open('README.md') as file:
 
 setup(
     name = 'threetotheonehalfpy',
-    version = '1.0.1',
+    version = '1.0.2',
     author = 'funtrix_doesstuff',
     description = 'A Python package for rapid and secure calculation of three to the one half in an industrial environment',
     url = 'https://github.com/funtrix-ds1/threetotheonehalfpy',

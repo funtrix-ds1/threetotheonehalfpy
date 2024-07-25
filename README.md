@@ -16,5 +16,5 @@ pip install threetotheonehalfpy
 Calculate three to the one half:
 ```python
 import threetotheonehalfpy
-print(threetotheonehalfpy.calculate_threetotheonehalf())
+print(threetotheonehalfpy.calculate.threetotheonehalf())
 ```
